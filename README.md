@@ -1,9 +1,12 @@
 # StockTradingAlert
 
 
-Will send you an SMS Message,via Twilio API, for a specific stock when the market opens and closes.
+⦁	Application that uses the pomodoro technique to help you time manage while working on a task
 
-Alert you when the stock price moves by a certain amount
+⦁	User Interface built using Tkinter module
+
+⦁	Adjustable; able to set different timer settings and values
+
 
 
 
